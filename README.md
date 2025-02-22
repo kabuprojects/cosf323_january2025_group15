@@ -1,1 +1,1 @@
-# cosf323_january2025_group15
+Privacy Risk Assessment for Web Applications
